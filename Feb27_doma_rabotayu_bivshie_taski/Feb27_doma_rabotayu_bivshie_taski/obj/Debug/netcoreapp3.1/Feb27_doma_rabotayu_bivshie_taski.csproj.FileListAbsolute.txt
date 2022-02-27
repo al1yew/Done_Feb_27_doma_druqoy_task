@@ -1,0 +1,14 @@
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\bin\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.exe
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\bin\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.deps.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\bin\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.runtimeconfig.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\bin\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.runtimeconfig.dev.json
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\bin\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.dll
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\bin\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.pdb
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.csproj.AssemblyReference.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.AssemblyInfoInputs.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.AssemblyInfo.cs
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.csproj.CoreCompileInputs.cache
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.dll
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.pdb
+C:\Users\Vasif\Desktop\programming\vse zadaniya vnutri etoy papki\Feb27_doma_rabotayu_bivshie_taski\Feb27_doma_rabotayu_bivshie_taski\obj\Debug\netcoreapp3.1\Feb27_doma_rabotayu_bivshie_taski.genruntimeconfig.cache
